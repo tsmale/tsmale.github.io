@@ -1,24 +1,34 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: About me
+tags: [about, Jekyll]
+date: 2020-01-30
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center>Hi, I'm <b>Tim</b></center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## Stuff I like
+* Git
+* Shell scripting (bash/zsh)
+* Cloud/DevOps
+  * AWS
+  * Docker
+  * Jenkins
+* Programming
+  * Ruby
+  * Python
+  * JavaScript
+* Scrum mastering - organising people/places/things
+* Fixing stuff
+
+## Stuff I'm working on
+
+GitHub stuff
+      
+[GitHub API Wrapper](https://github.com/tsmale/){: .btn}
+[NFL Stats](https://github.com/tsmale/){: .btn}
+[Static Site Deployment Race](https://github.com/tsmale/){: .btn}
 
 ## Preview
 
@@ -29,9 +39,3 @@ comments: false
 {% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
 
 See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
